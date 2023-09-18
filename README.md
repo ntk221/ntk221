@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 42Tokyoの学生です。
-- 現在はGo,Rust,Web開発の基礎について個人的に学習しています。
+- 現在はGo,Web開発の基礎について個人的に学習しています。
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntk221&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
