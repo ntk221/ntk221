@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 
 - プログラマーです
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntk221&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
